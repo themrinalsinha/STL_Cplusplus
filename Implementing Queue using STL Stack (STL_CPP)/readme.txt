@@ -1,0 +1,1 @@
+For this computer assignment, you are to implement the Queue class using STL stacks.

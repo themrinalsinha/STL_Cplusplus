@@ -1,0 +1,13 @@
+operation -- size front end
+push 1    --   1    1    1
+push 2    --   2    1    2
+push 3    --   3    1    3
+pop       --   2    2    3
+push 4    --   3    2    4
+push 5    --   4    2    5
+push 6    --   5    2    6
+pop       --   4    3    6
+push 7    --   5    3    7
+push 8    --   6    3    8
+push 8    --   7    3    8
+End -- size of Queue is: 0
