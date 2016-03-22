@@ -1,0 +1,1 @@
+For this computer assignment, you are to write and implement a C++ program to implement two search algorithms (linear search and binary search) on randomly generated integers stored in vectors.
