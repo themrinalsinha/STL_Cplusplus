@@ -1,0 +1,22 @@
+Height: 10
+Size: 1000
+In order traverse (displaying first 20 numbers): 
+  262  292  431  612  529
+  108  605  408  182  779
+  712  463  221  325  323
+  912  273  117  337   78
+
+
+Pre order traverse (displaying first 20 numbers): 
+  110  290   69  896  792
+  912  408  612  292  262
+  431  108  529  605  463
+  779  182  712  325  221
+
+
+Post order traverse (displaying first 20 numbers): 
+  262  431  292  529  605
+  108  612  182  712  779
+  221  323  325  463  408
+  273  337  117  421  916
+
