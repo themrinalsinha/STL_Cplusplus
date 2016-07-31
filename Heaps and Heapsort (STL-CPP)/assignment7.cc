@@ -1,18 +1,6 @@
 /*******************************************************************************
 CSCI 340 - Assignment 7 - Spring 2016
 
-Programmer: Dhwani Shah
-Z-ID: z1787631
-Section: 3
-TA: Robert Durham
-Date Due: April 2,2016
-
-Purpose:   The  purpose  of  this program is to sort numbers using the heapsort
-technique. Your program first builds a heap structure for the numbers. Then, it
-retrieves these numbers from the heap in a certain order and prints them out on
-stdout.
-*******************************************************************************/
-
 #include <iostream>    //Used for cin() and cout().
 #include <iomanip>     //Used for setw().
 #include <algorithm>   //Used for random_shuffle().
