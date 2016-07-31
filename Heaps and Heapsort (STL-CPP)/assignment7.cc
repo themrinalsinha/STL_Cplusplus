@@ -1,6 +1,8 @@
-/*******************************************************************************
-CSCI 340 - Assignment 7 - Spring 2016
+/***********************************************************************
 
+	AUTHOR : MRINAL SINHA
+
+************************************************************************/
 #include <iostream>    //Used for cin() and cout().
 #include <iomanip>     //Used for setw().
 #include <algorithm>   //Used for random_shuffle().
