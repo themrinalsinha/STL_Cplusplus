@@ -1,1 +1,0 @@
-For this computer assignment, you are to write a C++ program to generate random integers in the range [ LOW = 1, HIGH = 1000 ] and to store them in a vector < int >. Then, sort the contents of the vector (in ascending order) and display it on standard output.
