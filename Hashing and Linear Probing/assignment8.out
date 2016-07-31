@@ -1,0 +1,71 @@
+
+Displaying the table: 
+
+----Hash Table-----
+ 4: AB1 IDs
+ 5: CA0 keys
+ 6: AB3 name
+ 7: BA2 book
+ 8: AC0 grades
+10: AF3 comments
+-------------------
+
+AB3 is found at table position 6
+
+BA2 is found at table position 7
+
+AF4 does not exit in the hash table ...
+
+AA2 does not exit in the hash table ...
+
+Removing AF3...
+AF3 is removed successfully...
+
+Removing GA4...
+GA4 does not exist, no key is removed...
+
+Removing FA3...
+FA3 does not exist, no key is removed...
+
+Removing BA3...
+BA3 does not exist, no key is removed...
+
+Removing AB3...
+AB3 is removed successfully...
+
+Removing AC0...
+AC0 is removed successfully...
+
+
+Displaying the table: 
+
+----Hash Table-----
+ 4: AB1 IDs
+ 5: CA0 keys
+ 7: BA2 book
+-------------------
+
+BA2 is found at table position 7
+
+AB2 does not exit in the hash table ...
+
+AD3 does not exit in the hash table ...
+
+Removing AB1...
+AB1 is removed successfully...
+
+
+Displaying the table: 
+
+----Hash Table-----
+ 5: CA0 keys
+ 6: AC0 grades
+ 7: BA2 book
+ 8: GA0 year
+ 9: BB0 graduation
+-------------------
+
+BA0 does not exit in the hash table ...
+
+BB0 is found at table position 9
+
