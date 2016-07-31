@@ -1,0 +1,36 @@
+A binary search tree is generated with random numbers: 
+Size of the tree: 635
+Height of the tree: 20
+In order traverse (displaying first 20 numbers): 
+   2   4   5   6   7   8  10  11  13  15  16  17  18  19  20  23  25  26  27  31
+
+Pre order traverse (displaying first 20 numbers): 
+ 422 420  72  23   2   5   4   7   6  20  15  13   8  10  11  19  17  16  18  63
+
+Post order traverse (displaying first 20 numbers): 
+   4   6  11  10   8  13  16  18  17  19  15  20   7   5   2  26  27  32  31  35
+
+Sum of left leaves: 57692
+
+
+Out of 500 searches, 321 are successful.
+
+
+318 nodes are removed.
+
+Size of the tree: 317
+Height of the tree: 17
+In order traverse (displaying first 20 numbers): 
+   4   5  10  16  17  19  23  26  27  34  35  36  37  38  39  41  42  48  49  50
+
+Pre order traverse (displaying first 20 numbers): 
+ 422 420  66  23   5   4  10  19  17  16  63  48  37  34  27  26  36  35  38  39
+
+Post order traverse (displaying first 20 numbers): 
+   4  16  17  19  10   5  26  27  35  36  34  41  42  39  38  37  49  55  50  48
+
+Sum of left leaves: 23919
+
+
+Out of 500 searches, 166 are successful.
+
